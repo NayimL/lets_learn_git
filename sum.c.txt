@@ -6,6 +6,8 @@ int a=5,b=10,c;
 c=a+b;
 printf("c :%d\n",c);
 
+printf("Nayim");
+
 return 0;
 
 }
